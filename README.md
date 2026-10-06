@@ -101,23 +101,14 @@ lib/                    Lógica
 
 ---
 
-## 👥 Equipe
+## Equipe
 
-| Nome | Papel no Scrum | Principais contribuições |
-|---|---|---|
-| [Nome] | Product Owner | [o que fez] |
-| [Nome] | Scrum Master | [o que fez] |
-| [Nome] | Desenvolvimento | [o que fez] |
-| [Nome] | Desenvolvimento | [o que fez] |
+| Maria Brandão | PO 
+| Suzane Soares | Scrum Master
+| Maria Luiza| Team 
+| Alice Maciel | Team
 
-**Quadro no Trello:** [link do Trello]
+
 **Protótipo no Figma:** [link do Figma]
 **Site publicado:** [link da Vercel]
 
----
-
-<div align="center">
-
-Feito com para quem já se perdeu tentando imaginar a planificação de um cone.
-
-</div>
